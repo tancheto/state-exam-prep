@@ -69,7 +69,7 @@ long PortableComputer::count = 0;
 int main() {
 
 	PortableComputer myComputer1(true, 16, 2.4);
-	PortableComputer myComputer2();
+	PortableComputer myComputer2;
 	PortableComputer myComputer3(myComputer1);
 
 	cout << PortableComputer::count << endl;
