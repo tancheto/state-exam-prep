@@ -1,0 +1,1 @@
+cd /cygdrive/c/Users/Tanya/Desktop/TANYA/FMI/DI/state-exam-code/operating_systems
