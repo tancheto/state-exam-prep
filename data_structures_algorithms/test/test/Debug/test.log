@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\data_structures_algorithms\test\test\Source.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\data_structures_algorithms\test\test\Source.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+  test.vcxproj -> C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\data_structures_algorithms\test\Debug\test.exe
