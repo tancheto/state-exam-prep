@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\intro-to-programming\20160712_task01\20160712_task01\Source.cpp(41,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\intro-to-programming\20160712_task01\20160712_task01\Source.cpp(47,22): warning C4018: '<': signed/unsigned mismatch
+  20160712_task01.vcxproj -> C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\intro-to-programming\20160712_task01\Debug\20160712_task01.exe
