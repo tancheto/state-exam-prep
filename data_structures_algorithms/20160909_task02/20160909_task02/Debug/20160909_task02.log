@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\data_structures_algorithms\20160909_task02\20160909_task02\Source.cpp(26,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\data_structures_algorithms\20160909_task02\20160909_task02\Source.cpp(31,14): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\data_structures_algorithms\20160909_task02\20160909_task02\Source.cpp(41,15): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\data_structures_algorithms\20160909_task02\20160909_task02\Source.cpp(42,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\data_structures_algorithms\20160909_task02\20160909_task02\Source.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+  20160909_task02.vcxproj -> C:\Users\Tanya\Desktop\TANYA\FMI\DI\state-exam-code\data_structures_algorithms\20160909_task02\Debug\20160909_task02.exe
